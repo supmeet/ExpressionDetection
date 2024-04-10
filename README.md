@@ -23,7 +23,7 @@ The dataset used for training and testing the models can be found in the [FaceEx
 6. README.md: This file providing an overview of the project.
 
 ## Video Demo
-A video demo showcasing the functionality of the deployed models can be found here [Demo Video]https://azureloyalistcollege-my.sharepoint.com/:v:/g/personal/meetgautambhaipat_loyalistcollege_com/EZ2BXQ5yptJAo4ZA7Jfg0kYBSRQpefMqZcspnMN2JyLrJQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=WuClDx.
+A video demo showcasing the functionality of the deployed models can be found here [Demo Video](https://azureloyalistcollege-my.sharepoint.com/:v:/g/personal/meetgautambhaipat_loyalistcollege_com/EZ2BXQ5yptJAo4ZA7Jfg0kYBSRQpefMqZcspnMN2JyLrJQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=WuClDx) .
 
 ## Contributors
 1. Meet Patel
