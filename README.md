@@ -17,14 +17,13 @@ The dataset used for training and testing the models can be found in the [FaceEx
 ## Directory Structure
 1. models/: Contains the trained model files and deployment code.
 2. datasets/: Holds the dataset used for training and testing.
-3. demo/: Includes a short video demo of the deployed models.
-4. templates/: HTML Files to be used for the Flask App
-5. notebooks/: Jupyter notebooks used for training and testing the models.
-6. requirements.txt: List of Python dependencies required for the project.
-7. README.md: This file providing an overview of the project.
+3. templates/: HTML Files to be used for the Flask App
+4. notebooks/: Jupyter notebooks used for training and testing the models.
+5. requirements.txt: List of Python dependencies required for the project.
+6. README.md: This file providing an overview of the project.
 
 ## Video Demo
-A video demo showcasing the functionality of the deployed models can be found here.
+A video demo showcasing the functionality of the deployed models can be found here [Demo Video]https://azureloyalistcollege-my.sharepoint.com/:v:/g/personal/meetgautambhaipat_loyalistcollege_com/EZ2BXQ5yptJAo4ZA7Jfg0kYBSRQpefMqZcspnMN2JyLrJQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=WuClDx.
 
 ## Contributors
 1. Meet Patel
