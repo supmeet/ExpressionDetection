@@ -28,10 +28,3 @@ A video demo showcasing the functionality of the deployed models can be found he
 ## Contributors
 1. Meet Patel
 2. Jhanvi Gandhi
-3. Priyank Patel
-4. Kuldip Mangrola
-5. Rutvik Desai
-6. Priti Nath
-7. Chinmay Parmar
-8. Harpreet Kaur Bhatia
-9. Simran
